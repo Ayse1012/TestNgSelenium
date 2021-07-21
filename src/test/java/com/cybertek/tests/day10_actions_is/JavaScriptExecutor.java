@@ -96,6 +96,7 @@ public class JavaScriptExecutor {
         jse.executeScript("arguments[0].scrollIntoView(true);",turkey);
         Thread.sleep(2000);
         turkey.click();
+        //gıthub web sayfasından gelıyorum
 
     }
 
