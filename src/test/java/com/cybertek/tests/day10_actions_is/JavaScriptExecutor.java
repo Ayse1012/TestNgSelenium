@@ -97,6 +97,7 @@ public class JavaScriptExecutor {
         Thread.sleep(2000);
         turkey.click();
         //gıthub web sayfasından gelıyorum
+        //tamam ıntellıj den gelıyorum
 
     }
 
