@@ -82,6 +82,7 @@ public class JavaScriptExecutor {
         WebElement turkey = driver.findElement(By.xpath("//a[text()='Turkey']"));
        // turkey.click();
         JavascriptExecutor jse=(JavascriptExecutor) driver;
+        System.out.println("hell");
 
 //        for (int i = 0; i <23; i++) {
 //            jse.executeScript("window.scrollBy(0.250)");
